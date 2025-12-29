@@ -9,7 +9,7 @@ const Footer = () => {
         justify-between items-start'>
 
             <div className='w-full md:w-1/3 mb-8 md:mb-0 '> 
-                <img src={logo_dark} alt="image of logo"/>
+                <img src={logo_dark} alt=" of logo"/>
                 <p className='text-gray-400 mt-4 '>Lorem Ipsum is simply dummy text of the printing and typesetting industory.Lorem
                     Ipsum has been the industory's standard dummy text.
                 </p>
@@ -24,7 +24,7 @@ const Footer = () => {
                     <li><a href="#Header" className='hover:text-white '>Home</a></li>
                     <li><a href="#About" className='hover:text-white '>About us</a></li>
                     <li><a href="#Contact" className='hover:text-white '>Contact us</a></li>
-                    <li><a href="#" className='hover:text-white '>Privacy policy</a></li>
+                    <li><a href="#home" className='hover:text-white '>Privacy policy</a></li>
 
                 </ul>
 

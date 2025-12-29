@@ -23,7 +23,7 @@ viewport={{once:true}}
 
         <div className='flex flex-col md:flex-row items-center md:items-start md:gap-20 '>
 
-            <img className='md:w-1/2 w-full ' src={About_image} alt="image of about section"/>
+            <img className='md:w-1/2 w-full ' src={About_image} alt=" of about section"/>
 
             <div className='flex flex-col items-center md:items-start mt-10 text-gray-600 '>
 
